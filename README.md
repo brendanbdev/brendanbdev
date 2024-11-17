@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brendanbdev
 - 👀 I’m interested in starting a new career as a developer.
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning Full-stack Software Development.
 - 📫 How to reach me: brendanbdev@gmail.com
 
 <!---
